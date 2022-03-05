@@ -12,7 +12,7 @@ After the customers add all the plants they need to the “shopping cart” they
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@__Tasn](https://twitter.com/__tasn) - TasneemAliAlzahrani@outlook.com
+Tasneem Alzahrani - [@__Tasn](https://twitter.com/__tasn) - TasneemAliAlzahrani@outlook.com
 
 Project Link: [https://github.com/TasnimAlzahrani/Rihla](https://github.com/TasnimAlzahrani/Rihla)
 
